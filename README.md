@@ -1,4 +1,4 @@
-# git-demo
+# delta-demo
 This is Demo for intro of Git ..
 
 
